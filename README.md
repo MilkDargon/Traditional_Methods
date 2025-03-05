@@ -26,7 +26,7 @@ Unzip the downloaded dataset files to the main file directory.
 For example: If you want to run HA.
 
 ```bash
-cd Traditional_Methods/
+cd Traditional_Methods-master/
 python run_HA.py -d dataset
 ```
 
