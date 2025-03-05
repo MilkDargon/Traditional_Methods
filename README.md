@@ -3,8 +3,6 @@
 
 #### Table of Contents
 * configs: training Configs and model configs for each dataset
-* data: the directory used to store dataset
-* log: output records during runtime
 * metrics: evaluate metrics
 
 #### Required Packages
