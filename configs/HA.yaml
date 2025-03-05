@@ -1,0 +1,78 @@
+METR-LA:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.1
+
+  lag: 24*12
+
+  model_args:
+    weight: [1]
+    null_value: 0
+
+PEMS-BAY:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.1
+
+  lag: 24*12
+
+  model_args:
+    weight: [1]
+    null_value: 0
+
+PEMS03:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.2
+
+  lag: 24*12
+
+  model_args:
+    weight: [1]
+    null_value: 0
+
+PEMS04:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.2
+
+  lag: 24*12
+
+  model_args:
+    weight: [1]
+    null_value: 0
+
+PEMS07:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.2
+
+  lag: 24*12
+
+  model_args:
+    weight: [1]
+    null_value: 0
+
+PEMS08:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.2
+
+  lag: 24*12
+
+  model_args:
+    weight: [1]
+    null_value: 0
+

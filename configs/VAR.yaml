@@ -1,0 +1,62 @@
+METR-LA:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.1
+
+  model_args:
+    maxlags: 1
+
+PEMS-BAY:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.1
+
+  model_args:
+    maxlags: 1
+
+PEMS03:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.2
+
+
+  model_args:
+    maxlags: 1
+
+PEMS04:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.2
+
+  model_args:
+    maxlags: 1
+
+PEMS07:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.2
+
+  model_args:
+    maxlags: 1
+
+PEMS08:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.2
+
+
+  model_args:
+    maxlags: 1
+

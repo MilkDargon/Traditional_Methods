@@ -1,0 +1,62 @@
+METR-LA:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.1
+
+  model_args:
+    kernel: 'rbf'
+
+PEMS-BAY:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.1
+
+  model_args:
+    kernel: 'rbf'
+
+PEMS03:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.2
+
+
+  model_args:
+    kernel: 'rbf'
+
+PEMS04:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.2
+
+  model_args:
+    kernel: 'rbf'
+
+PEMS07:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.2
+
+  model_args:
+    kernel: 'rbf'
+
+PEMS08:
+  in_steps: 12
+  out_steps: 12
+
+  test_size: 0.2
+  val_size: 0.2
+
+
+  model_args:
+    kernel: 'rbf'
+
