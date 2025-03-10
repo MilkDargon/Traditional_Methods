@@ -1,5 +1,6 @@
 ## Traffic flow prediction implemented based on traditional methods (HA, SVR, VAR)
 
+####For a brief introduction to the principle of the code, please refer to [Zhihu](https://zhuanlan.zhihu.com/p/28094518761)
 
 #### Table of Contents
 * configs: training Configs and model configs for each dataset
